@@ -1,0 +1,10 @@
+[
+  {
+    "conversion": "45.35 JPY convertida a: USD son: 0.2959541",
+    "fecha": "Thu Oct 31 12:10:12 CST 2024"
+  },
+  {
+    "conversion": "45.35 JPY convertida a: USD son: 0.2959541",
+    "fecha": "Thu Oct 31 12:10:12 CST 2024"
+  }
+]
